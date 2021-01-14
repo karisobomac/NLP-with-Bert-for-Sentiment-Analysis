@@ -2,7 +2,7 @@
 
 NLP with Bert for Sentiment Analysis to Analyse Movies Reviews with Bert Model to predict if there poistive or negative
 
-Two positive and negative test reviews, train this model how to understand what is positive review or what is negative review base on test
+Two positive and negative test reviews, train the model how to understand what is positive review or what is negative review base on text
 
 This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. Raw text and already processed bag of words formats are provided. See the README file contained in the release for more details.
 
